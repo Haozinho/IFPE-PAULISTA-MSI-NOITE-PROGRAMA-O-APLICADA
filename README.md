@@ -12,3 +12,4 @@ Link para programar pelo navegador: https://repl.it/languages/python3
 Se tiver alguma dúvida fala comigo pelo zap ou fala com o professor.
 
 Perdoa meus erros de português xD
+ 
