@@ -1,7 +1,7 @@
 # IFPE-PAULISTA-MSI-NOITE-PROGRAMA-O-APLICADA
 Material para estudo, atividades respondidas.
 
-Instagram: @sr.hao
+## Instagram: @sr.hao
 
 Estou fazendo todas as atividades no Python 3.9
 
