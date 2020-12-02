@@ -67,3 +67,6 @@ print("A temperatura em Kelvin é igual a: ", temperaturaKelvin)
 velocidadeKM = float(input("10º) Digite a velocidade do carro, sabendo que está em quilometros por hora: "))
 velocidadeMS = velocidadeKM/3.6
 print("A velocidade convertida para metros por segundo é igual a: ", velocidadeMS)
+
+
+#Atividade 11
